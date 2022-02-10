@@ -1,6 +1,6 @@
 # melon_genie_crawl_api
 
-This project crawls melon(top100), genie(top50) list. 
+This project crawls melon(top100), genie(top50) list. \n
 And services APIs which lists top100, shows music information on specific rank.Cancel changes
 
 to run
