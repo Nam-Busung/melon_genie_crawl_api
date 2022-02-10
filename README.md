@@ -1,9 +1,9 @@
-This project crawls melon(top100), genie(top50) list. 
-And services APIs which lists top100, shows music information on specific rank.
-
 # melon_genie_crawl_api
 
-For run
+This project crawls melon(top100), genie(top50) list. 
+And services APIs which lists top100, shows music information on specific rank.Cancel changes
+
+to run
 1. npm install
 2. npm run start
 
